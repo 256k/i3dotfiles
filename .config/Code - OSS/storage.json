@@ -3,6 +3,8 @@
     "openedPathsList": {
         "workspaces2": [],
         "files2": [
+            "file:///home/fayek/blur-bg.sh",
+            "file:///home/fayek/.config/polybar/openweathermap-full.sh",
             "file:///home/fayek/.config/compton.conf",
             "file:///home/fayek/.config/polybar/launch.sh",
             "file:///home/fayek/.config/polybar/config",
@@ -959,7 +961,7 @@
                 "isNative": false
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+Shift+W"
+                "label": "Ctrl+W"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q"
@@ -1198,6 +1200,19 @@
             },
             "workbench.action.tasks.build": {
                 "label": "Ctrl+Shift+B"
+            }
+        }
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/fayek/.config/Code - OSS/Backups/1545340733141",
+            "uiState": {
+                "mode": 1,
+                "x": 17,
+                "y": 44,
+                "width": 612,
+                "height": 1019
             }
         }
     }
